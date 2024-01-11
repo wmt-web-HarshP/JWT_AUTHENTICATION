@@ -1,12 +1,12 @@
 {
-  "name": "office-management",
+  "name": "JWT_AUTHENTICATION",
   "version": "1.0.0",
-  "description": "",
+  "description": "JWT Authentication",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "Harsh Prajapati",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
