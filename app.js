@@ -1,4 +1,4 @@
-require('dotenv/config'); //env file required
+require('dotenv').config(); //env file required
 const express = require('express');
 const app = express();
 const bodyParser=require('body-parser')
